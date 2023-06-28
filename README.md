@@ -161,7 +161,7 @@ Login to DC-1 as jane_admin
   
 Open PowerShell_ise as an administrator
 
-Create a new File and paste the contents of the script into it  <link rel="stylesheet" href="https://github.com/joshmadakor1/AD_PS/blob/master/Generate-Names-Create-Users.ps1">
+Create a new File and paste the contents of the <a href="https://github.com/joshmadakor1/AD_PS/blob/master/Generate-Names-Create-Users.ps1" target="_blank">script</a> into it  
 
 Run the script and observe the accounts being created
 
